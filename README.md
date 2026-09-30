@@ -1,10 +1,5 @@
 ## Hi there 👋
-Hi! 👋 I’m a BCA graduate and a technology enthusiast interested in software development, data analytics, and AI.
-I have hands-on experience with Java, Python, SQL, HTML, CSS, and JavaScript, and I enjoy building practical projects that combine technology with real-world applications.
-I’m currently strengthening my skills in programming, data analytics, web development, and AI while exploring new technologies and working on personal and academic projects.
-
-🚀 I’m always interested in learning, building, and improving my technical skills through real-world projects.
-
+Hi! 👋 I’m a BCA graduate passionate about software development, data analytics, and AI. I enjoy building projects with Java, Python, SQL, and web technologies while continuously learning and exploring new technologies.
 
 <!--
 **chandanash667-cpu/chandanash667-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
